@@ -1,0 +1,6 @@
+print('Olá, mundo!')
+print('Estão bem?')
+print('Eu espqero que sim!')
+print('Tenha um dia incrível!)
+print('Beijos.')
+print('Tchau!')
